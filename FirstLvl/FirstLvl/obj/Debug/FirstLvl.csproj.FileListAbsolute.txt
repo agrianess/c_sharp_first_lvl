@@ -1,1 +1,2 @@
 D:\Program C#\FirstLvl\FirstLvl\bin\Debug\FirstLvl.exe.config
+D:\c_sharp_first_lvl\FirstLvl\FirstLvl\bin\Debug\FirstLvl.exe.config
