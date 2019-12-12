@@ -1,0 +1,6 @@
+D:\c_sharp_first_lvl\FirstLvl\les_5_2\bin\Debug\les_5_2.exe.config
+D:\c_sharp_first_lvl\FirstLvl\les_5_2\bin\Debug\les_5_2.exe
+D:\c_sharp_first_lvl\FirstLvl\les_5_2\bin\Debug\les_5_2.pdb
+D:\c_sharp_first_lvl\FirstLvl\les_5_2\obj\Debug\les_5_2.csprojResolveAssemblyReference.cache
+D:\c_sharp_first_lvl\FirstLvl\les_5_2\obj\Debug\les_5_2.exe
+D:\c_sharp_first_lvl\FirstLvl\les_5_2\obj\Debug\les_5_2.pdb
