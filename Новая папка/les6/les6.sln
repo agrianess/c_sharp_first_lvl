@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "les6.1", "..\Новая папка\les6\les6.1\les6.1.csproj", "{E2CAA833-C80C-49A7-94C7-EE9462F79069}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "les6.1", "les6.1\les6.1.csproj", "{E2CAA833-C80C-49A7-94C7-EE9462F79069}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "les6.2", "..\Новая папка\les6\les6.2\les6.2.csproj", "{A7218EFA-E0D7-4F72-939F-D1E0F2CD94D8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "les6.2", "les6.2\les6.2.csproj", "{A7218EFA-E0D7-4F72-939F-D1E0F2CD94D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Les6_3", "Les6_3\Les6_3.csproj", "{1370D8AA-0758-4A25-94AF-DEDDB774BBCE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{A7218EFA-E0D7-4F72-939F-D1E0F2CD94D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A7218EFA-E0D7-4F72-939F-D1E0F2CD94D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A7218EFA-E0D7-4F72-939F-D1E0F2CD94D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1370D8AA-0758-4A25-94AF-DEDDB774BBCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1370D8AA-0758-4A25-94AF-DEDDB774BBCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1370D8AA-0758-4A25-94AF-DEDDB774BBCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1370D8AA-0758-4A25-94AF-DEDDB774BBCE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

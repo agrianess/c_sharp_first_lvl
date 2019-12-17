@@ -1,0 +1,6 @@
+D:\c_sharp_first_lvl\FirstLvl\first_lvl_4_3\bin\Debug\first_lvl_4_3.exe.config
+D:\c_sharp_first_lvl\FirstLvl\first_lvl_4_3\bin\Debug\first_lvl_4_3.exe
+D:\c_sharp_first_lvl\FirstLvl\first_lvl_4_3\bin\Debug\first_lvl_4_3.pdb
+D:\c_sharp_first_lvl\FirstLvl\first_lvl_4_3\obj\Debug\first_lvl_4.3.csprojResolveAssemblyReference.cache
+D:\c_sharp_first_lvl\FirstLvl\first_lvl_4_3\obj\Debug\first_lvl_4_3.exe
+D:\c_sharp_first_lvl\FirstLvl\first_lvl_4_3\obj\Debug\first_lvl_4_3.pdb
