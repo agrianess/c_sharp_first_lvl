@@ -1,0 +1,12 @@
+D:\ProjectsC#\Education\c#\first_lvl\les6\les6.2\bin\Debug\les6.2.exe.config
+D:\ProjectsC#\Education\c#\first_lvl\les6\les6.2\bin\Debug\les6.2.exe
+D:\ProjectsC#\Education\c#\first_lvl\les6\les6.2\bin\Debug\les6.2.pdb
+D:\ProjectsC#\Education\c#\first_lvl\les6\les6.2\obj\Debug\les6.2.csprojResolveAssemblyReference.cache
+D:\ProjectsC#\Education\c#\first_lvl\les6\les6.2\obj\Debug\les6.2.exe
+D:\ProjectsC#\Education\c#\first_lvl\les6\les6.2\obj\Debug\les6.2.pdb
+D:\c_sharp_first_lvl\Новая папка\les6\les6.2\bin\Debug\les6.2.exe.config
+D:\c_sharp_first_lvl\Новая папка\les6\les6.2\obj\Debug\les6.2.exe
+D:\c_sharp_first_lvl\Новая папка\les6\les6.2\obj\Debug\les6.2.pdb
+D:\c_sharp_first_lvl\Новая папка\les6\les6.2\bin\Debug\les6.2.exe
+D:\c_sharp_first_lvl\Новая папка\les6\les6.2\bin\Debug\les6.2.pdb
+D:\c_sharp_first_lvl\Новая папка\les6\les6.2\obj\Debug\les6.2.csprojResolveAssemblyReference.cache
